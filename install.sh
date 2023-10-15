@@ -12,7 +12,7 @@ else
     echo "Please download Git using your package manager or over https://git-scm.com/!"
     exit 1
 fi
-
+c
 if [ -x "$(command -v cc)" ]
 then
     echo "SUCCESS: cc is installed"
